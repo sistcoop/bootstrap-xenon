@@ -1,5 +1,5 @@
 /*!
- * Xenon v1.3.0 (http://getbootstrap.com)
+ * Bootstrap v1.3.0 (http://getbootstrap.com)
  * Copyright 2011-2015 SoftGreen, S.A.C.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
