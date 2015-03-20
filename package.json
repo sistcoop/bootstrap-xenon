@@ -1,7 +1,7 @@
 {
   "name": "xenon",
   "description": "Bootstrap Xenon admin theme.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "css",
     "less",
@@ -16,7 +16,7 @@
   "scripts": {
     "test": "grunt test"
   },
-  "style": "dist/css/bootstrap.css",
+  "style": "dist/css/xenon.css",
   "less": "less/bootstrap.less",
   "main": "./dist/js/npm",
   "repository": {
