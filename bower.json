@@ -1,7 +1,7 @@
 {
-  "name": "bootstrap",
-  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
-  "version": "3.3.4",
+  "name": "xenon",
+  "description": "Bootstrap Xenon admin theme.",
+  "version": "1.0.0",
   "keywords": [
     "css",
     "js",
